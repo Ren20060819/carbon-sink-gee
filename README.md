@@ -50,10 +50,10 @@ Estimating vegetation carbon sink using Sentinel-2 and Google Earth Engine
 ---
 
 ## 项目结构
-carbon-sink-gee/
-├── code/ # GEE 脚本
-├── results/ # 导出结果与示意图
-└── docs/ # 方法说明文档
+carbon-sink-gee
+- code/ # GEE 脚本
+- results/ # 导出结果与示意图
+- docs/ # 方法说明文档
 ---
 
 ## 下一步计划
